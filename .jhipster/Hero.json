@@ -1,0 +1,23 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "power",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "alterEgo",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170705173038",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "hero",
+    "pagination": "no"
+}

@@ -1,0 +1,21 @@
+{
+    "timirisCrmApp": {
+        "testMahi" : {
+            "home": {
+                "title": "TestMahis",
+                "createLabel": "Créer un nouveau Test Mahi",
+                "createOrEditLabel": "Créer ou éditer un Test Mahi"
+            },
+            "created": "Un nouveau Test Mahi a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Test Mahi avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Test Mahi avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Test Mahi {{ id }} ?"
+            },
+            "detail": {
+                "title": "Test Mahi"
+            },
+            "name": "Name"
+        }
+    }
+}
